@@ -6,7 +6,7 @@ title: Home
 # My GitHub Pages site
 This page was created from a tutorial
 
-![GitHub Logo](mixed-reality-docs/images/2d-slate-interaction-click.jpg)
+![This image is a test](Images/AltText.png)
 Format: ![Alt Text](url)
 
 # General workflow for making a website with GitHub Pages
