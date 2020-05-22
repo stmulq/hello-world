@@ -5,6 +5,7 @@ title: Home
 
 # My GitHub Pages site
 This is the html image:
+
 <img src="Images/AltText.png" width="500">
 
 This is the markdown image:
