@@ -6,7 +6,7 @@ title: Home
 # My GitHub Pages site
 This page was created from a tutorial
 
-<img src="Images/AltText.png" width="100">
+<img src="Images/AltText.png" width="500">
 ![This image is a test](Images/AltText.png)
 Format: ![Alt Text](url)
 
