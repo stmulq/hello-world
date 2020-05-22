@@ -6,6 +6,9 @@ title: Home
 # My GitHub Pages site
 This page was created from a tutorial
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 # General workflow for making a website with GitHub Pages
 Follow these instructions to make a website with _GitHub Pages_.
 
