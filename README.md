@@ -7,8 +7,11 @@ title: Home
 This page was created from a tutorial
 
 <img src="Images/AltText.png" width="500">
+This is the html image
+
 ![This image is a test](Images/AltText.png)
 Format: ![Alt Text](url)
+This is the markdown image
 
 # General workflow for making a website with GitHub Pages
 Follow these instructions to make a website with _GitHub Pages_.
