@@ -8,9 +8,7 @@ Expand
 
 If this error appears when adding a player from the **Provision** screen, the player already has an existing provisioning record under another BSN.Cloud network.
 
-<p align="center">
-    ![image-20240321-200712](https://github.com/user-attachments/assets/c9aa15bd-d1d2-475c-ba3b-05df3e3e0125)
-</p>
+![image-20240321-200712](https://github.com/user-attachments/assets/c9aa15bd-d1d2-475c-ba3b-05df3e3e0125)
 
 A player can only have one provisioning record in BSN.Cloud, so the player’s existing provisioning record must be deleted and the player removed from its current network. To do this, follow the steps outlined [here](https://brightsign.atlassian.net/wiki/spaces/DOC/pages/395313614/Provision#Deleting-a-Provision-Record). Only the owner of the network to which the player belongs can perform these functions so you may have to contact that person to request that they do this.
 
