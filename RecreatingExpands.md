@@ -1,4 +1,4 @@
 ## Testing to see if I can create an expand
 
-- [] Lists
-- [] This is an expand. Blah Blah Blah
+- [] Expand for more info
+- [] - This is an expand. Blah Blah Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
